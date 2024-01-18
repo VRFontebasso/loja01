@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+form{
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+    position: relative;
+    top: 30px;
+}
